@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261377092384",
+    "project_id": "water-quality-cc91a",
+    "storage_bucket": "water-quality-cc91a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261377092384:android:83a416730466e6e8510545",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlaHTCggc54NGBMv4dlFjM4jtoWDSr7bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
